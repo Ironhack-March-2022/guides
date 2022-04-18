@@ -1,4 +1,51 @@
 
+##  MongoDB Atlas configuration 
+
+
+<br>
+
+
+
+### 1. [Signup for a Free MongoDB Atlas account](https://www.mongodb.com/cloud/atlas/lp/try2)
+
+![](https://i.imgur.com/vKJgkEB.png)
+
+
+
+<br>
+
+
+
+![](https://i.imgur.com/jLhyP7k.png)
+
+
+
+<br>
+
+
+
+### 2. [Sign Up & Create a Free Cluster](https://docs.atlas.mongodb.com/tutorial/deploy-free-tier-cluster/)
+
+1. Sign Up for Mongo Atlas - enter the email, password, first name, last name
+
+2. Select  >>>  **Starter Clusters (or Shared Clusters)** 
+
+3. In the drop-down **Cloud Provider & Region** select: 
+
+   -  Europe Region 
+
+4. in the **Cluster Tier** select:
+
+   
+
+5. In the drop-down "**Cluster Tier**" make sure to select:
+
+   -  **M0 Sandbox** - with the flag **Free forever**.
+
+6. Click the button **Create Cluster**
+
+
+
 <br>
 
 
